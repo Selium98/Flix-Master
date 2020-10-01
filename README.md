@@ -29,7 +29,7 @@ Important Resources / Links
 
 # Installing
 
-1. Download the entire folder in .zip format or git clone the entire folder : https://github.com/Selium98/Movie-Recommender.git
+1. Download the entire folder in .zip format or git clone the entire folder : https://github.com/Selium98/Flix-Master.git
 2. Once done extracting the contents, run the requirements.txt file from CLI or Powershell : 
 ```
 pip install -r requirements.txt
