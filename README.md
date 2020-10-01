@@ -38,7 +38,7 @@ pip install -r requirements.txt
 4. Once all the requirements are installed, open Powershell in the folder where all the files are present or browse into the folder via CLI.
 5. Run the command : 
 ```
-python3 application.py
+python3 main.py
 ```
-6. This will start the services. 
+6. This will start all necessary the services and will get the program running. 
 7. Enter http://127.0.0.1:5000/ in the browser and you should be able to see the project.
