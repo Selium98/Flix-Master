@@ -1,6 +1,6 @@
 # Flix Master
 
-Flix Master ia an advance Movie Recommender Web Application, built using Flask which allows the user to find similar movies based on the name of the movie entered. The model developed is extensively trained by making the use of Naive Bayes Algorithm of Classification. The model is able to correctly identify the user-input movie and recommend similar movies on the basis of the movie's genre, classification and category.
+Flix Master ia an advance Movie Recommender Web Application, built using Flask which allows the user to find similar movies based on the name of the movie entered. The model developed extensively makes use of Naive Bayes Algorithm of Classification. The model is able to correctly identify the user-input movie and recommend similar movies on the basis of the movie's genre, classification and category.
 
 Flask
 -----
